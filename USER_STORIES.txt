@@ -1,0 +1,8 @@
+### USER STORIES ###
+
+1) AS A participant I WANT TO get all upcoming events SO THAT I choose those I'm interested in
+2) AS A participant I WANT TO register on event SO THAT I can take part in it
+3) AS A participant I WANT TO get all events I've registered to SO THAT I see event participation details
+4) AS A moderator I WANT TO create events SO THAT participants can take part in them
+4) AS A moderator I WANT TO edit events SO THAT event details are always up to date
+5) AS A moderator I WANT TO create/edit/remove venues SO THAT events took place in venues which are available at the moment
